@@ -2,6 +2,8 @@
 
 <One paragraph: what we're building and who it's for.>
 
+> Test fork used to verify Devin PR review.
+
 What we're building and who owns which part: [IDEA.md](IDEA.md). Deadlines, rules and
 the team: [HACKATHON.md](HACKATHON.md). Who is doing what, live: the board linked in HACKATHON.md.
 
